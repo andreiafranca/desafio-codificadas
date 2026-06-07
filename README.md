@@ -14,8 +14,7 @@ Este repositório contém minha resolução para o desafio de programação prop
 | 2 | 230A - Dragons | [Ver no Codeforces](https://codeforces.com/contest/230/my) | 1000 |
 
  
-<!-- Remova as linhas dos problemas que não foram resolvidos caso tenha escolhido menos de 3.-->
- 
+
 ---
  
 ## Problema 1 — [4A - Watermelon]
