@@ -13,8 +13,6 @@ Este repositório contém minha resolução para o desafio de programação prop
 | 1 | 4A - Watermelon | [Ver no Codeforces](https://codeforces.com/contest/4/my) | 800 |
 | 2 | 230A - Dragons | [Ver no Codeforces](https://codeforces.com/contest/230/my) | 1000 |
 
- 
-
 ---
  
 ## Problema 1 — [4A - Watermelon]
@@ -22,12 +20,10 @@ Este repositório contém minha resolução para o desafio de programação prop
 ### O que o problema pede?
 < 4A - Watermelon do Codeforces consiste em verificar se o peso \(w\) é um número par maior que 2. -->
  
- 
-### Como eu resolvi?
+ ### Como eu resolvi?
 < Pede ajuda a IA para me explicar o que pedi e o contexto geral para entender o que fazer e entender o que se pede. -->
  
- 
-### Código
+ ### Código
 ```python
 # w = int(input())
 
@@ -37,7 +33,6 @@ else:
     print("NO")
 
 ```
- 
 ---
  
 ## Problema 2 — [230A Dragons]
@@ -76,10 +71,7 @@ else:
 
 
 ```
- 
----
- 
-
+ ---
  
 ## IA utilizada
 
@@ -97,7 +89,7 @@ Como Sou leiga e estou em processo de apreendizado desta linguagem pede ajuda pr
 ### Dificuldades encontradas
 
 < -- To com muita dificuldade ainda ,não é simplesmente diritar e entender o motivo ração e logica para tais comandos, meu problemas maior ainda esta sendo este , transformar algo em comandos e texto em numero e inseri-los .-->
- 
+
  
 ### O que aprendi
 <--  Olha aprende a destrinchar o texto e aprestar atenção no que pede e não perder tempo em textos grande , ainda estou com muita dificuldade em gravar esses comandos , estou buscando fazer exercicios para melhor entender . -->
